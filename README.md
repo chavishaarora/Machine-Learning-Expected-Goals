@@ -1,0 +1,2 @@
+# Machine-Learning-Expected-Goals
+Expected goals (xG) is a metric that quantifies the quality of goal scoring opportunities in football.  It is a value between 0 and 1,  which indicates the probability that the shot taken will actually result in a goal. The xG model does not use simple metrics such as shots taken, possession, touches etc. but works on features such as location of shot, angle to goal, distance to goal, etc. We predict this metric- Expected goals by Machine Learning.
